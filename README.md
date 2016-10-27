@@ -1,0 +1,2 @@
+# 16_10_27_CW_PersonsOrmJpa
+LocalEntityManagerFactoryBean, PersistenceAnnotationBeanPostProcessor, JpaTransactionManager, HibernatePersistence
